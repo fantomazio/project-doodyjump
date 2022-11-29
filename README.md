@@ -15,4 +15,4 @@ Doody-jump - представляет собой игру в жанре арка
 
 [Правила игры](https://github.com/fantomazio/project-doodyjump/tree/main/Правила%20игры)
 
-[Тестирование](https://github.com/rsajko/Extra-Jump/blob/master/Тестирование/Test%20Plan.md)
+[Тестирование](https://github.com/fantomazio/project-doodyjump/tree/main/Тестирование/Test%20Plan.md)
