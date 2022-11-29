@@ -10,19 +10,19 @@
 ## 1.1 Игровой процесс <a name="1.1"></a>
 Если пользователь падает, он принимает одно из трёх решений: начать игру снова, выйти в меню, выйти из игры.
 
- ![Игровой проесс](https://github.com/rsajko/Extra-Jump/blob/master/Диаграммы/Activity/1.Game%20Process.png)
+ ![Игровой проесс](https://github.com/fantomazio/project-doodyjump/blob/master/Диаграммы/Activity/1.Game%20Process.png)
  
 ## 1.2 Начать игру <a name="1.2"></a>
 Если пользователь нажимает кнопку "Play" - открывается игровой процесс.
 
- ![Начать игру](https://github.com/rsajko/Extra-Jump/blob/master/Диаграммы/Activity/2.Play.png)
+ ![Начать игру](https://github.com/fantomazio/project-doodyjump/blob/master/Диаграммы/Activity/2.Play.png)
  
 ## 1.3 Настройки <a name="1.3"></a>
 Если пользователь нажимает "Settings", он может изменить настройки звука, включить или выключить.
 
- ![Настройки](https://github.com/rsajko/Extra-Jump/blob/master/Диаграммы/Activity/3.Settings.png)
+ ![Настройки](https://github.com/fantomazio/project-doodyjump/blob/master/Диаграммы/Activity/3.Settings.png)
 
 ## 1.4 Выход из игры <a name="1.4"></a>
 Если пользователь нажимает кнопку "Exit" - игра закроется.
 
- ![Выход из игры](https://github.com/rsajko/Extra-Jump/blob/master/Диаграммы/Activity/4.Exit.png) 
+ ![Выход из игры](https://github.com/fantomazio/project-doodyjump/blob/master/Диаграммы/Activity/4.Exit.png) 
