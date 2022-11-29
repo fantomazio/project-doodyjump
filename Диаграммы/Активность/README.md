@@ -10,7 +10,7 @@
 ## 1.1 Игровой процесс <a name="1.1"></a>
 Если пользователь падает, он принимает одно из трёх решений: начать игру снова, выйти в меню, выйти из игры.
 
- ![Игровой проесс](https://github.com/fantomazio/project-doodyjump/blob/master/Диаграммы/Activity/1.Game%20Process.png)
+ ![Игровой проесс](https://github.com/fantomazio/project-doodyjump/blob/main/Диаграммы/Activity/1.Game%20Process.png)
  
 ## 1.2 Начать игру <a name="1.2"></a>
 Если пользователь нажимает кнопку "Play" - открывается игровой процесс.
