@@ -7,12 +7,12 @@ Doody-jump - представляет собой игру в жанре арка
 
 Платформа: Android
 
-[Диаграммы](ссылка
+[Диаграммы](https://github.com/fantomazio/project-doodyjump/tree/main/Диаграммы)
 
-[Требования](ссылка
+[Требования](https://github.com/fantomazio/project-doodyjump/tree/main/Документация)
 
-[Графический материал](ссылка
+[Графический материал](https://github.com/fantomazio/project-doodyjump/tree/main/Мокапы)
 
-[Правила игры](ссылка
+[Правила игры](https://github.com/fantomazio/project-doodyjump/tree/main/Правила%20игры)
 
 [Тестирование](https://github.com/rsajko/Extra-Jump/blob/master/Тестирование/Test%20Plan.md)
